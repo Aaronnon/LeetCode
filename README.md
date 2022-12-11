@@ -1,6 +1,6 @@
 # LeetCode in JavaScript
 
-**RUN CODE**: cd to folder, on terminal run node [fileName].
+**RUN CODE**: cd to folder, on terminal run node fileName.
 
 | ID  | Title                                             | Solution                                                               |
 | --- | ------------------------------------------------- | ---------------------------------------------------------------------- | 
